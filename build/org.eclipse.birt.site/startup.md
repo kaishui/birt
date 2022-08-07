@@ -6,6 +6,11 @@ https://wiki.eclipse.org/Eclipse_Platform_SDK_Provisioning
 https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse/birt/master/build/org.eclipse.birt.releng/BIRTConfiguration.setup&show=true
 ```
 
+# how to read the structure of birt project 
+```
+https://wiki.eclipse.org/BIRT/FAQ/Birt_Project
+```
+
 # hit some issue and solution
 ## 1. Caused by: java.lang.NoClassDefFoundError: org/eclipse/swt/widgets/Widget
 
@@ -27,4 +32,4 @@ org.eclipse.swt.cocoa.macosx.x86_64
 https://stackoverflow.com/questions/11959334/noclassdeffounderror-org-eclipse-swt-swterror
 ```
 
-## 3. org.osgi.framework.BundleException: Could not resolve module: org.eclipse.birt.data.oda.mongodb [149]
+##
